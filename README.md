@@ -1,8 +1,8 @@
 # delivery-shop-testing
 
-Clone this repository
-Clone the front part here
-npm i for back-end
-cd client and also type npm i for front part
+1)Clone this repository
+2)Clone the front part here
+3)npm i for back-end
+4)cd client and also type npm i for front part
 
-and then open new terminal and type npm run dev
+5)And then open new terminal and type npm run dev
